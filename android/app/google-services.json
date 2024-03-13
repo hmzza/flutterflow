@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803455567672",
+    "project_id": "safeguardher-fnyxjl",
+    "storage_bucket": "safeguardher-fnyxjl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803455567672:android:c94ef8c8e748b7576ea3cd",
+        "android_client_info": {
+          "package_name": "com.mycompany.safeguardher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBm2vgbV8G08gkPPKgMhaQU1jgrOFDAKzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

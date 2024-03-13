@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAuy3jeHi_KOPKi6h7gmLIS2B5zRClo6ng</string>
+	<key>GCM_SENDER_ID</key>
+	<string>803455567672</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.safeguardher</string>
+	<key>PROJECT_ID</key>
+	<string>safeguardher-fnyxjl</string>
+	<key>STORAGE_BUCKET</key>
+	<string>safeguardher-fnyxjl.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:803455567672:ios:f7e999a76e1230646ea3cd</string>
+</dict>
+</plist>
